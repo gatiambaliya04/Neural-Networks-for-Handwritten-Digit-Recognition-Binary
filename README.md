@@ -1,2 +1,2 @@
 # Neural-Networks-for-Handwritten-Digit-Recognition-Binary
-In my project, I employed a neural network to discern handwritten digits, specifically focusing on recognizing the digits zero and one. 
+In my project, I employed a neural network to discern handwritten digits, specifically focusing on recognizing the digits zero and one. Tasked with a binary classification objective, I delved into automated handwritten digit recognition, a technology extensively utilized in various domains such as identifying zip codes on mail envelopes and interpreting amounts inscribed on bank checks.Through this project, I gained insight into applying learned methodologies for tackling real-world classification tasks.
